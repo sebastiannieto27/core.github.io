@@ -2,9 +2,11 @@ console.log("Hi World");
 console.log("Hi Buddie");
 console.log(“hey there!”);
 
-function(){
+function dumbFunction(){
 	alert(42);
 	if (1!=2){
 		return false;
 	}
+	return true;
 }
+
