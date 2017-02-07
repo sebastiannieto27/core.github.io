@@ -17,3 +17,11 @@ function bugFix14(){
 	}
 	return true;
 }
+
+function bugFix16(){
+	alert(16);
+	if (1!=2){
+		return false;
+	}
+	return true;
+}
