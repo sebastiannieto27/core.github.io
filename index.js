@@ -23,5 +23,6 @@ function bugFix16(){
 	if (1!=2){
 		return false;
 	}
+	console.log("adding more stuff");
 	return true;
 }
