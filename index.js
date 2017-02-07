@@ -26,3 +26,13 @@ function bugFix16(){
 	console.log("adding more stuff");
 	return true;
 }
+
+
+function bugFix17(){
+	alert(17);
+	if (1!=2){
+		return false;
+	}
+	console.log("hotfix 17");
+	return true;
+}
