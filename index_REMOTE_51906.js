@@ -10,6 +10,7 @@ function dumbFunction(){
 	return true;
 }
 
+<<<<<<< HEAD
 function bugFix14(){
 	alert(42);
 	if (1!=2){
@@ -36,3 +37,8 @@ function bugFix17(){
 	console.log("hotfix 17");
 	return true;
 }
+=======
+I will add some conflicting code lines XD
+hope this doesn't cause any issue
+ adding js stuff
+>>>>>>> 5b831fe... adding js stuff
